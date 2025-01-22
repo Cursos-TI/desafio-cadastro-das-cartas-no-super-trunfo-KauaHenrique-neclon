@@ -18,4 +18,5 @@ int main(){
     scanf("%d", &turistico);
 
     printf("Nome: %s\nCidade: %s\nPopulaçao: %d\nArea: %d\nPIB: %d\nPonto Turismo: %d",nome,cidade,populacao,area, PIB, turistico);
+    return 0;
 }
